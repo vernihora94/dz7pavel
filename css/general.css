@@ -6,6 +6,11 @@ html {
 .art {
     padding-bottom: 221px;
     padding-top: 192px;
+    background-image: url("../drop.svg"), url("../point.svg");
+    background-repeat: no-repeat;
+    background-position: left top 200px, right 12% center;
+    background-size: auto, 131px;
+    width: 100%;
 }
 * a {
     text-decoration: none;
